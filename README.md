@@ -11,10 +11,10 @@ A responsive React application that fetches and displays data from the JSONPlace
 
 ## Getting Started
 
-1. **Clone the repo**: `git clone https://github.com/your-username/material-ui-api-app.git`
+1. **Clone the repo**: `https://github.com/krishnaa1001/random-images-dogs.git`
 2. **Install dependencies**: `npm install`
 3. **Start the app**: `npm start`
 
 ## Demo
 
-Check out the live demo [here](#).
+Check out the live demo [here](https://random-images-dogs.vercel.app/).
